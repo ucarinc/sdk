@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.ucar</groupId>
-  <artifactId>sdk</artifactId>
+  <artifactId>push</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20160804090859</lastUpdated>
+    <lastUpdated>20160919071755</lastUpdated>
   </versioning>
 </metadata>
