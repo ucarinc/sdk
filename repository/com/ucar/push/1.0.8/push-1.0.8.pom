@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ucar</groupId>
   <artifactId>push</artifactId>
-  <version>1.0.74mai</version>
+  <version>1.0.8</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
