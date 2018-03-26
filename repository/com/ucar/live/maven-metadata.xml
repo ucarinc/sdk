@@ -3,15 +3,28 @@
   <groupId>com.ucar</groupId>
   <artifactId>live</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>1.0.6</release>
+=======
+    <release>1.1.3</release>
+>>>>>>> 51df26c87b213dd395903b9d2d7e4fd018d7f322
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
       <version>1.0.5</version>
+<<<<<<< HEAD
       <version>1.0.6</version>
     </versions>
     <lastUpdated>20180326100704</lastUpdated>
+=======
+      <version>1.1.0</version>
+      <version>1.1.1</version>
+      <version>1.1.2</version>
+      <version>1.1.3</version>
+    </versions>
+    <lastUpdated>20180326041937</lastUpdated>
+>>>>>>> 51df26c87b213dd395903b9d2d7e4fd018d7f322
   </versioning>
 </metadata>
