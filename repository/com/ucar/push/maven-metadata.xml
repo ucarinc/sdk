@@ -3,7 +3,7 @@
   <groupId>com.ucar</groupId>
   <artifactId>push</artifactId>
   <versioning>
-    <release>1.1.17_test</release>
+    <release>1.1.171_test</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
@@ -42,7 +42,8 @@
       <version>1.1.16_job</version>
       <version>1.1.17_job</version>
       <version>1.1.17_test</version>
+      <version>1.1.171_test</version>
     </versions>
-    <lastUpdated>20180514024812</lastUpdated>
+    <lastUpdated>20180514092527</lastUpdated>
   </versioning>
 </metadata>
