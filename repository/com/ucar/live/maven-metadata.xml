@@ -3,18 +3,15 @@
   <groupId>com.ucar</groupId>
   <artifactId>live</artifactId>
   <versioning>
-    <release>1.0.5</release>
+    <release>1.2.1</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
       <version>1.0.5</version>
+      <version>1.2.1</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20180523085503</lastUpdated>
-=======
-    <lastUpdated>20180605025201</lastUpdated>
->>>>>>> 3e96509fc20611cd91944429581c64b033f7caa8
+    <lastUpdated>20180704093704</lastUpdated>
   </versioning>
 </metadata>
